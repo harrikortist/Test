@@ -19,7 +19,7 @@
       "iconURL": "https://cdn.discordapp.com/attachments/1376823009783844865/1381449759847350373/delta_icon.png",
       "tintColor": "FF9500",
       "category": "emulation",
-      "marketplaceID": "",
+      "marketplaceID": "0",
       "screenshots": [
         {
           "imageURL": "https://example.com/screenshot1.png"
