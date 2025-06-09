@@ -1,16 +1,17 @@
 {
-  "name": "My MediaFire Source",
-  "identifier": "com.example.mediafiresource",
+  "name": "My Custom Source",
+  "identifier": "com.example.customsource",
   "apps": [
     {
       "name": "Delta",
-      "url": "https://download2393.mediafire.com/wc1i99ce0lsgExAyTm_x6hZ5WbHkKTFfWYkph6pL9wZk9KhtIavB0q7BEANAfMC2sLiGZvIlz4a6gn7RzsRYJlM5wv8-XMau8dPPc0DKLJdR6Pu0oM1XYkHY0Tm_uBB_G2Sz6GiB93aTVAOcS6OVrpPtAg_o7VM7bndXAzPc/kui56vq7yaoyc1y/Delta-668.660-02.ipa",
       "bundleIdentifier": "com.rileytestut.Delta",
       "developerName": "Riley Testut",
-      "subtitle": "Game Emulator for iOS",
       "version": "1.0",
-      "iconURL": "https://raw.githubusercontent.com/rileytestut/Delta/master/icon.png",
-      "localizedDescription": "A powerful game emulator for NES, SNES, GBA, and more."
+      "versionDate": "2024-04-01",
+      "localizedDescription": "The best way to play classic games on iOS.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3a/15/8d/3a158d71-c01e-3b33-5793-6f46e6d87f24/AppIcon-0-1x_U007emarketing-0-0-GLES2_U007emarketing-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#6E6EFF",
+      "url": "https://download2393.mediafire.com/wc1i99ce0lsgExAyTm_x6hZ5WbHkKTFfWYkph6pL9wZk9KhtIavB0q7BEANAfMC2sLiGZvIlz4a6gn7RzsRYJlM5wv8-XMau8dPPc0DKLJdR6Pu0oM1XYkHY0Tm_uBB_G2Sz6GiB93aTVAOcS6OVrpPtAg_o7VM7bndXAzPc/kui56vq7yaoyc1y/Delta-668.660-02.ipa"
     }
   ]
 }
