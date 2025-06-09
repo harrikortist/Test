@@ -1,17 +1,16 @@
 {
-  "name": "Source Name",
+  "name": "My MediaFire Source",
+  "identifier": "com.example.mediafiresource",
   "apps": [
     {
       "name": "Delta",
-      "url": "https://example.com/app1.ipa",
-      "bundleIdentifier": "com.example.app1",
-      "version": "1.0"
-    },
-    {
-      "name": "App2",
-      "url": "https://example.com/app2.ipa",
-      "bundleIdentifier": "com.example.app2",
-      "version": "1.1"
+      "url": "https://download2393.mediafire.com/wc1i99ce0lsgExAyTm_x6hZ5WbHkKTFfWYkph6pL9wZk9KhtIavB0q7BEANAfMC2sLiGZvIlz4a6gn7RzsRYJlM5wv8-XMau8dPPc0DKLJdR6Pu0oM1XYkHY0Tm_uBB_G2Sz6GiB93aTVAOcS6OVrpPtAg_o7VM7bndXAzPc/kui56vq7yaoyc1y/Delta-668.660-02.ipa",
+      "bundleIdentifier": "com.rileytestut.Delta",
+      "developerName": "Riley Testut",
+      "subtitle": "Game Emulator for iOS",
+      "version": "1.0",
+      "iconURL": "https://raw.githubusercontent.com/rileytestut/Delta/master/icon.png",
+      "localizedDescription": "A powerful game emulator for NES, SNES, GBA, and more."
     }
   ]
 }
