@@ -1,0 +1,17 @@
+{
+  "name": "My AltStore Source",
+  "identifier": "com.example.mysource",
+  "apps": [
+    {
+      "name": "Delta",
+      "bundleIdentifier": "com.rileytestut.Delta",
+      "developerName": "Riley Testut",
+      "version": "1.0",
+      "versionDate": "2024-06-01T12:00:00Z",
+      "localizedDescription": "Delta emulator to play your favorite classic games.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3a/15/8d/3a158d71-c01e-3b33-5793-6f46e6d87f24/AppIcon-0-1x_U007emarketing-0-0-GLES2_U007emarketing-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#6E6EFF",
+      "url": "https://example.com/path/to/Delta.ipa"
+    }
+  ]
+}
