@@ -1,17 +1,44 @@
 {
-  "name": "My AltStore Source",
-  "identifier": "com.example.mysource",
+  "name": "Custom Source",
+  "identifier": "com.custom.source",
+  "subtitle": "A source for my custom apps",
+  "description": "Welcome to my source! Here you'll find some apps.",
+  "website": "https://github.com/harrikortist/Test",
+  "tintColor": "F1533E",
+  "iconURL": "https://avatars.githubusercontent.com/u/12345678?v=4",
+  "featuredApps": [
+    "com.rileytestut.delta"
+  ],
   "apps": [
     {
       "name": "Delta",
-      "bundleIdentifier": "com.rileytestut.Delta",
+      "bundleIdentifier": "com.rileytestut.delta",
       "developerName": "Riley Testut",
-      "version": "1.0",
-      "versionDate": "2024-06-01T12:00:00Z",
-      "localizedDescription": "Delta emulator to play your favorite classic games.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3a/15/8d/3a158d71-c01e-3b33-5793-6f46e6d87f24/AppIcon-0-1x_U007emarketing-0-0-GLES2_U007emarketing-0-0-85-220.png/512x512bb.jpg",
-      "tintColor": "#6E6EFF",
-      "url": "https://example.com/path/to/Delta.ipa"
+      "subtitle": "Game emulator for iOS",
+      "localizedDescription": "Delta lets you play your favorite classic games with support for NES, SNES, GBA, and more.",
+      "iconURL": "https://example.com/icon.png",
+      "tintColor": "0A84FF",
+      "category": "games",
+      "marketplaceID": "1234567890",
+      "screenshots": [
+        {
+          "imageURL": "https://example.com/screenshot1.png"
+        },
+        {
+          "imageURL": "https://example.com/screenshot2.png"
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2024-05-01T12:00:00+00:00",
+          "localizedDescription": "Initial release.",
+          "downloadURL": "https://download2393.mediafire.com/wc1i99ce0lsgExAyTm_x6hZ5WbHkKTFfWYkph6pL9wZk9KhtIavB0q7BEANAfMC2sLiGZvIlz4a6gn7RzsRYJlM5wv8-XMau8dPPc0DKLJdR6Pu0oM1XYkHY0Tm_uBB_G2Sz6GiB93aTVAOcS6OVrpPtAg_o7VM7bndXAzPc/kui56vq7yaoyc1y/Delta-668.660-02.ipa",
+          "size": 6720959,
+          "minOSVersion": "14.0"
+        }
+      ]
     }
   ]
 }
