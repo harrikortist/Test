@@ -1,17 +1,17 @@
 {
   "name": "My AltStore Source",
-  "identifier": "com.example.mysource",
+  "identifier": "com.yoursource.identifier",
   "apps": [
     {
       "name": "Delta",
-      "bundleIdentifier": "com.rileytestut.Delta",
+      "bundleIdentifier": "com.rileytestut.delta",
       "developerName": "Riley Testut",
+      "subtitle": "Game emulator for iOS",
       "version": "1.0",
-      "versionDate": "2025-06-09T12:00:00Z",
-      "localizedDescription": "Delta emulator to play classic games on iOS.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3a/15/8d/....512x512bb.jpg",
-      "tintColor": "#6E6EFF",
-      "url": "https://your.storage.link/Delta.ipa"
+      "versionDate": "2024-05-01",
+      "iconURL": "https://example.com/icon.png",
+      "localizedDescription": "Delta lets you play your favorite classic games with support for NES, SNES, GBA, and more.",
+      "downloadURL": "https://download2393.mediafire.com/wc1i99ce0lsgExAyTm_x6hZ5WbHkKTFfWYkph6pL9wZk9KhtIavB0q7BEANAfMC2sLiGZvIlz4a6gn7RzsRYJlM5wv8-XMau8dPPc0DKLJdR6Pu0oM1XYkHY0Tm_uBB_G2Sz6GiB93aTVAOcS6OVrpPtAg_o7VM7bndXAzPc/kui56vq7yaoyc1y/Delta-668.660-02.ipa"
     }
   ]
 }
