@@ -1,0 +1,17 @@
+{
+  "name": "Source Name",
+  "apps": [
+    {
+      "name": "Delta",
+      "url": "https://example.com/app1.ipa",
+      "bundleIdentifier": "com.example.app1",
+      "version": "1.0"
+    },
+    {
+      "name": "App2",
+      "url": "https://example.com/app2.ipa",
+      "bundleIdentifier": "com.example.app2",
+      "version": "1.1"
+    }
+  ]
+}
