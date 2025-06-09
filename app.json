@@ -1,43 +1,59 @@
 {
-  "name": "Custom Source",
-  "identifier": "com.custom.source",
-  "subtitle": "Custom apps source",
-  "description": "A source containing Delta IPA for AltStore",
-  "website": "https://example.com",
-  "tintColor": "FF9500",
-  "iconURL": "https://example.com/icon.png",
+  "name": "Auties00",
+  "identifier": "com.github.auties00",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "website": "https://github.com/Auties00/Artemis",
+  "tintColor": "F1533E",
+  "iconURL": "https://avatars.githubusercontent.com/u/28218457?v=4",
   "featuredApps": [
-    "com.custom.delta"
+    "com.github.auties00.artemis"
   ],
   "apps": [
     {
-      "name": "Delta",
-      "bundleIdentifier": "com.rileytestut.Delta",
-      "developerName": "Riley Testut",
-      "subtitle": "A multi-system emulator",
-      "localizedDescription": "Delta is a multi-system emulator for iOS, supporting Game Boy, SNES, N64, and more.",
-      "iconURL": "https://cdn.discordapp.com/attachments/1376823009783844865/1381449759847350373/delta_icon.png",
-      "tintColor": "FF9500",
-      "category": "emulation",
+      "name": "Artemis",
+      "bundleIdentifier": "com.github.auties00.artemis",
+      "developerName": "Auties00",
+      "subtitle": "Alternative client for HIDIVE",
+      "localizedDescription": "Artemis is an alternative and open source streaming client for HIDIVE",
+      "iconURL": "https://github.com/Auties00/Artemis/blob/main/Artemis/Assets.xcassets/AppIcon.appiconset/appstore.png?raw=true",
+      "tintColor": "0A84FF",
+      "category": "entertainment",
+      "marketplaceID": "6630385154",
       "screenshots": [
         {
-          "imageURL": "https://example.com/screenshot1.png"
+          "imageURL": "https://github.com/user-attachments/assets/88bd1a37-0f10-4fba-b6e9-6bf3174b87a8"
         },
         {
-          "imageURL": "https://example.com/screenshot2.png"
+          "imageURL": "https://github.com/user-attachments/assets/99249893-1532-40ca-8c61-f65869e1ecca"
+        },
+        {
+          "imageURL": "https://github.com/user-attachments/assets/ee6fc0aa-2a3b-4abe-bab6-0eaa6019547b"
+        },
+        {
+          "imageURL": "https://github.com/user-attachments/assets/2d053217-3b56-482e-a7af-2baa006d545a"
+        },
+        {
+          "imageURL": "https://github.com/user-attachments/assets/ea555ebc-95d1-435b-b840-fbe82184892a"
         }
       ],
       "versions": [
         {
-          "version": "668.660-02",
-          "buildVersion": "66866002",
-          "date": "2025-06-09T00:00:00+00:00",
-          "localizedDescription": "Latest Delta update with bug fixes and improvements.",
+          "version": "3.0",
+          "buildVersion": "19",
+          "date": "2024-10-31T02:35:01+02:00",
+          "localizedDescription": "Bug fixes and improvements.",
           "downloadURL": "https://cdn.discordapp.com/attachments/1376823009783844865/1381449759847350373/Delta.ipa?ex=68478ed8&is=68463d58&hm=05ccf1a57eac89009886643e7abf6159a486502b083e8347f35a4547e78addcd&",
-          "size": 100000000,
-          "minOSVersion": "14.0"
+          "size": 6720959,
+          "minOSVersion": "17.0"
         }
-      ]
+      ],
+      "appPermissions": {
+        "privacy": {},
+        "entitlements": [
+          "beta-reports-active"
+        ]
+      }
     }
   ]
 }
