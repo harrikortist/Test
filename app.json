@@ -1,25 +1,25 @@
 {
   "name": "Custom Source",
   "identifier": "com.custom.source",
-  "subtitle": "A source for my custom apps",
-  "description": "Welcome to my source! Here you'll find some apps.",
-  "website": "https://github.com/harrikortist/Test",
-  "tintColor": "F1533E",
-  "iconURL": "https://avatars.githubusercontent.com/u/12345678?v=4",
+  "subtitle": "Custom apps source",
+  "description": "A source containing Delta IPA for AltStore",
+  "website": "https://example.com",
+  "tintColor": "FF9500",
+  "iconURL": "https://example.com/icon.png",
   "featuredApps": [
-    "com.rileytestut.delta"
+    "com.custom.delta"
   ],
   "apps": [
     {
       "name": "Delta",
-      "bundleIdentifier": "com.rileytestut.delta",
+      "bundleIdentifier": "com.rileytestut.Delta",
       "developerName": "Riley Testut",
-      "subtitle": "Game emulator for iOS",
-      "localizedDescription": "Delta lets you play your favorite classic games with support for NES, SNES, GBA, and more.",
-      "iconURL": "https://example.com/icon.png",
-      "tintColor": "0A84FF",
-      "category": "games",
-      "marketplaceID": "1234567890",
+      "subtitle": "A multi-system emulator",
+      "localizedDescription": "Delta is a multi-system emulator for iOS, supporting Game Boy, SNES, N64, and more.",
+      "iconURL": "https://cdn.discordapp.com/attachments/1376823009783844865/1381449759847350373/delta_icon.png",
+      "tintColor": "FF9500",
+      "category": "emulation",
+      "marketplaceID": "",
       "screenshots": [
         {
           "imageURL": "https://example.com/screenshot1.png"
@@ -30,12 +30,12 @@
       ],
       "versions": [
         {
-          "version": "1.0",
-          "buildVersion": "1",
-          "date": "2024-05-01T12:00:00+00:00",
-          "localizedDescription": "Initial release.",
-          "downloadURL": "https://download2393.mediafire.com/wc1i99ce0lsgExAyTm_x6hZ5WbHkKTFfWYkph6pL9wZk9KhtIavB0q7BEANAfMC2sLiGZvIlz4a6gn7RzsRYJlM5wv8-XMau8dPPc0DKLJdR6Pu0oM1XYkHY0Tm_uBB_G2Sz6GiB93aTVAOcS6OVrpPtAg_o7VM7bndXAzPc/kui56vq7yaoyc1y/Delta-668.660-02.ipa",
-          "size": 6720959,
+          "version": "668.660-02",
+          "buildVersion": "66866002",
+          "date": "2025-06-09T00:00:00+00:00",
+          "localizedDescription": "Latest Delta update with bug fixes and improvements.",
+          "downloadURL": "https://cdn.discordapp.com/attachments/1376823009783844865/1381449759847350373/Delta.ipa?ex=68478ed8&is=68463d58&hm=05ccf1a57eac89009886643e7abf6159a486502b083e8347f35a4547e78addcd&",
+          "size": 100000000,
           "minOSVersion": "14.0"
         }
       ]
